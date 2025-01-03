@@ -7,4 +7,5 @@ public class git {
     private String url;
     private String commit;
     private String author;
+    private String date;
 }
